@@ -1,0 +1,116 @@
+input {
+    outline: none;
+}
+
+.logo img {
+    margin: 1% 2%;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.wt {
+    background-color: #fff;
+}
+
+.header-bottom {
+    border-bottom: 2px solid #fff;
+}
+
+.logot img {
+    margin-left: 5%;
+    width: 90%;
+    height: 450px;
+}
+
+.logot .infor {
+    margin-left: 5%;
+    width: 90%;
+    /* height: 1100px; */
+    border: 1px solid #dddddd;
+}
+
+.logot .infor .in-top {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-bottom: 2px solid #024986;
+}
+
+.logot .infor .in-top p {
+    color: #024986;
+    font-family: '微软雅黑';
+    font-weight: 900;
+}
+
+.logot .infor .in-bot {
+    width: 90%;
+    height: 40px;
+    margin-left: 5%;
+    margin-top: 2%;
+    line-height: 40px;
+    color: #194882;
+    padding-left: 5%;
+    background-color: #e1f1fd;
+}
+
+.logot .infor .in-bot::before {
+    content: '';
+}
+
+.logot .infor form ul li {
+    margin-left: 20%;
+    margin-top: 2%;
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.logot .infor form ul li span:nth-child(1) {
+    color: #dc3752;
+}
+
+.logot .infor form ul li input {
+    margin-left: 30px;
+    width: 70%;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 20px;
+    color: #757575;
+    font-size: 16px;
+    border: 1px solid #dddddd;
+}
+
+.logot .infor form .tj {
+    width: 40%;
+    height: 40px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #005596;
+    font-size: 18px;
+    border: 0;
+    margin-left: 30%;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.infor form .second li {
+    border-radius: 2px;
+}
+
+.infor form .second li textarea {
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;
+}
+
+
+.sbottom {
+    margin-top: 30px;
+    width: 100%;
+    height: 20px;
+    background-color: #00558f;
+}
+

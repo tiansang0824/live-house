@@ -1,0 +1,294 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?x57z87');
+    src: url('fonts/icomoon.eot?x57z87#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?x57z87') format('truetype'),
+    url('fonts/icomoon.woff?x57z87') format('woff'),
+    url('fonts/icomoon.svg?x57z87#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-1password:before {
+    content: "\e901";
+    color: #0094f5;
+}
+
+.icon-500px:before {
+    content: "\e902";
+    color: #0099e5;
+}
+
+.icon-abbrobotstudio:before {
+    content: "\e903";
+    color: #ff9e0f;
+}
+
+.icon-about-dot-me:before {
+    content: "\e904";
+    color: #00a98f;
+}
+
+.icon-abstract:before {
+    content: "\e905";
+}
+
+.icon-academia:before {
+    content: "\e906";
+}
+
+.icon-accusoft:before {
+    content: "\e907";
+    color: #ff7e4a;
+}
+
+.icon-acm:before {
+    content: "\e908";
+    color: #0085ca;
+}
+
+.icon-addthis:before {
+    content: "\e909";
+    color: #ff6550;
+}
+
+.icon-adguard:before {
+    content: "\e90a";
+    color: #66b574;
+}
+
+.icon-adobe:before {
+    content: "\e90b";
+    color: #f00;
+}
+
+.icon-adobeacrobatreader:before {
+    content: "\e90c";
+    color: #ee3f24;
+}
+
+.icon-adobeaftereffects:before {
+    content: "\e90d";
+    color: #d291ff;
+}
+
+.icon-adobeaudition:before {
+    content: "\e90e";
+    color: #00e4bb;
+}
+
+.icon-cheveron-right:before {
+    content: "\e910";
+}
+
+.icon-cheveron-up:before {
+    content: "\e911";
+}
+
+.icon-close:before {
+    content: "\e912";
+}
+
+.icon-fast-forward:before {
+    content: "\e913";
+}
+
+.icon-fast-rewind:before {
+    content: "\e914";
+}
+
+.icon-format-bold:before {
+    content: "\e915";
+}
+
+.icon-format-italic:before {
+    content: "\e916";
+}
+
+.icon-format-underline:before {
+    content: "\e917";
+}
+
+.icon-information-solid:before {
+    content: "\e918";
+}
+
+.icon-list-add:before {
+    content: "\e919";
+}
+
+.icon-list-bullet:before {
+    content: "\e91a";
+}
+
+.icon-location-current:before {
+    content: "\e91b";
+}
+
+.icon-play:before {
+    content: "\e91c";
+}
+
+.icon-shuffle:before {
+    content: "\e91d";
+}
+
+.icon-thumbs-down:before {
+    content: "\e91e";
+}
+
+.icon-thumbs-up:before {
+    content: "\e91f";
+}
+
+.icon-view-hide:before {
+    content: "\e920";
+}
+
+.icon-arrow-outline-down:before {
+    content: "\e932";
+}
+
+.icon-copy:before {
+    content: "\e933";
+}
+
+.icon-search:before {
+    content: "\e986";
+}
+
+.icon-thumbsup:before {
+    content: "\e900";
+}
+
+.icon-eye:before {
+    content: "\e9ce";
+}
+
+.icon-heart:before {
+    content: "\e90f";
+}
+
+.icon-spinner6:before {
+    content: "\e97f";
+}
+
+.icon-spinner7:before {
+    content: "\e980";
+}
+
+.icon-spinner8:before {
+    content: "\e981";
+}
+
+.icon-spinner9:before {
+    content: "\e982";
+}
+
+.icon-spinner10:before {
+    content: "\e983";
+}
+
+.icon-spinner11:before {
+    content: "\e984";
+}
+
+.icon-binoculars:before {
+    content: "\e985";
+}
+
+.icon-zoom-in:before {
+    content: "\e987";
+}
+
+.icon-zoom-out:before {
+    content: "\e988";
+}
+
+.icon-user:before {
+    content: "\e934";
+}
+
+.icon-printer:before {
+    content: "\e921";
+}
+
+.icon-bookmark:before {
+    content: "\e922";
+}
+
+.icon-monitor:before {
+    content: "\e923";
+}
+
+.icon-cross:before {
+    content: "\e924";
+}
+
+.icon-plus:before {
+    content: "\e925";
+}
+
+.icon-left:before {
+    content: "\e926";
+}
+
+.icon-up:before {
+    content: "\e927";
+}
+
+.icon-browser:before {
+    content: "\e928";
+}
+
+.icon-windows:before {
+    content: "\e929";
+}
+
+.icon-switch:before {
+    content: "\e92a";
+}
+
+.icon-dashboard:before {
+    content: "\e92b";
+}
+
+.icon-play1:before {
+    content: "\e92c";
+}
+
+.icon-fast-forward1:before {
+    content: "\e92d";
+}
+
+.icon-next:before {
+    content: "\e92e";
+}
+
+.icon-refresh:before {
+    content: "\e92f";
+}
+
+.icon-film:before {
+    content: "\e930";
+}
+
+.icon-home:before {
+    content: "\e931";
+}

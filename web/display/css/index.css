@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #f2f5fa;
+}
+
+.w {
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    /* background-color: pink; */
+}
+
+.header-top {
+    width: 100%;
+    height: 20px;
+    background-color: #163c7a;
+    border-bottom: 2px solid #fff;
+}
+
+.header-bottom {
+    width: 100%;
+    height: 45px;
+    background-color: #015293;
+}
+
+.header-bottom ul li {
+    float: left;
+    width: 11%;
+    height: 100%;
+    border-left: 1px solid #016cb0;
+    /* background-color: yellow; */
+}
+
+.header-bottom ul li a {
+    font-size: 17px;
+    margin-left: 25%;
+    line-height: 40px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-bottom ul li a:hover {
+    border-bottom: 2px solid #dddddd;
+}
+
+.first-form {
+    position: absolute;
+    top: 4%;
+    left: 80%;
+}
+
+
+.first-form .search {
+    position: relative;
+    top: -5px;
+    left: -30px;
+    width: 200px;
+    height: 30px;
+    background-color: #b6bdc7;
+}
+
+.first-form input {
+    position: relative;
+    top: -35px;
+    left: 123px;
+    width: 20%;
+    height: 30px;
+    border-left: 1px solid #b6bdc7;
+}
+
+.main-images img {
+    width: 100%;
+    height: 80%;
+}
+
+.main-notic {
+    height: 800px;
+    margin-top: 20px;
+    border-top: 2px solid #1b417d;
+}
+
+.main-notic .main-no-t {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: #015293;
+    font-weight: 900;
+}
+
+.main-notic ul li {
+    float: left;
+    width: 33.3%;
+    margin-top: 20px;
+    /* background-color: pink; */
+}
+
+.main-notic ul li .hea {
+    height: 35px;
+    padding-left: 10px;
+    line-height: 35px;
+    border-right: 1px solid #015293;
+    background-color: #dddddd;
+}
+
+.main-notic ul li .hea span {
+    display: block;
+    float: right;
+    margin-right: 10px;
+    color: #baaaa4;
+}
+
+.main-notic ul li .li {
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+
+.main-notic ul li .li a {
+    display: block;
+    width: 70%;
+    text-decoration: none;
+    color: #00006b;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.bottom {
+    width: 100%;
+    height: 300px;
+    background-color: #2f405d;
+}
+
+.bottom .div {
+    padding-top: 50px;
+    margin: 10px 35%;
+}
+
+.bottom p {
+    width: 100%;
+    color: #fff;
+    font-size: 12px;
+}
