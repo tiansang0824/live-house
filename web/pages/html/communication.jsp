@@ -54,13 +54,13 @@
 
         <form action="">
             <ul>
-                <li><span>*</span><span>昵称:</span><input type="text" value="必填"></li>
+                <%--<li><span>*</span><span>昵称:</span><input type="text" value="必填"></li>--%>
                 <li><span>*</span><span>姓名:</span><input type="text" value="必填"></li>
                 <li><span>*</span><span>职业:</span><input type="text" value="必填"></li>
                 <li><span>*</span><span>公民身份证号码:</span><input type="text" value="必填"></li>
                 <li><span>*</span><span>联系电话:</span><input type="text" value="必填"></li>
                 <li><span>*</span><span>电子邮箱:</span><input type="text" value="必填"></li>
-                <li><span>*</span><span>验证码:</span><input type="text" value="必填"></li>
+                <%--<li><span>*</span><span>验证码:</span><input notype="text" value="必填"></li>--%>
             </ul>
 
             <div class="in-top">
