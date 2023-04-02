@@ -1,5 +1,5 @@
 /*建表语句*/
-CREATE TABLE proposal
+CREATE TABLE proposals
 (
     pid          INT PRIMARY KEY AUTO_INCREMENT,
     proposerName VARCHAR(64)  NOT NULL,
